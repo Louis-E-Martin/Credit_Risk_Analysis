@@ -4,4 +4,4 @@ In this module it was our goal to use suprvised machine learning to try and pred
 
 ## Results
 * Naive Random Oversampling
-*   hello
+  * hello
